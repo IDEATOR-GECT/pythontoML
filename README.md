@@ -12,7 +12,7 @@ you can also access our **[whatsapp](https://chat.whatsapp.com/K3ZAmCs8wLo0derAM
 <br/>
 ## Introduction
 Python is one of the most popular programming language, it is an interpreter language( don't be afraid interpreted is something that converts the code that we write in python to machine understandable form, which is obviously the binary 0 or 1). Learning python is interesting as it takes you to very good and steep learning curve which helps you understand the magic of this language.
-## course structure
+## [course structure](https://drive.google.com/file/d/1WL-vr6HdvRUSeDy6hypr5q2uf8yXIHeL/view?usp=sharing)
 **Week 1:     Wednesday(19/8/2020)**<br/>
  -	Module 1: Basic Concepts
 
