@@ -1,4 +1,5 @@
 # Python to Machine-Learning
+---
 _Python to ML is our first course that we provide to you as an initiative from Ideator GEC Thrissur which aims at providing high quality study materials and 
 resources through our website. This primary course with a duration of 9 week mainly focuses on the Python programming language and basics of Machine learning
 ( Neural networks also). The course is very much beginner friendly and could be learnt at your own pace. Additional benefits apart from the course completion 
@@ -12,7 +13,8 @@ Python is one of the most popular programming language, it is an interpreter lan
 1. Topic 1  - *week1*
 2. Topic 2  - *week1*
 3. Topic 3  - *week1*
-## Weekly Task Updates
+# Weekly Task Updates
+---
 Here you can find you weekly task and it is possible for you to do those task and submit it using the git hub pull request to this repository<br>
 People who are not familiar to git please don't worry and you can easily learn and use it<br>
 Basically GitHub is a web based version control system that allows you to keep track of your projects or works progress. It allows you to control the version of your code and the environment. Github also have many other facilities which you will learn on the way.<br>
