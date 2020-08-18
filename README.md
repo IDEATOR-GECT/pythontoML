@@ -4,7 +4,9 @@ _Python to ML is our first course that we provide to you as an initiative from I
 resources through our website. This primary course with a duration of 9 week mainly focuses on the Python programming language and basics of Machine learning
 ( Neural networks also). The course is very much beginner friendly and could be learnt at your own pace. Additional benefits apart from the course completion 
 certificate includes the experience that you get on using platforms like GitHub and Google Colab. Our team also supports you with doubt clearance and helps you 
-understand the concepts in a better manner. The contents will be updated on weekly basis within the course and learners can easily access it through our website.
+understand the concepts in a better manner. The contents will be updated on weekly basis within the course and learners can easily access it through the events section of our [website](https://ideator.pythonanywhere.com).
+<br/>
+you can also access our **[whatsapp](https://chat.whatsapp.com/K3ZAmCs8wLo0derAM90icv)** or **github issues(prefered)** for anytime discussions or doubt clearance
 <br/>
 **Wishing you all very the best!**_
 <br/>
@@ -52,4 +54,8 @@ Python is one of the most popular programming language, it is an interpreter lan
 # Weekly Task Updates
 ---
 **Your weekly task can be found in the weekly-task folder**
+
+
+
+
 
