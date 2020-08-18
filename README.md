@@ -5,6 +5,7 @@ resources through our website. This primary course with a duration of 9 week mai
 ( Neural networks also). The course is very much beginner friendly and could be learnt at your own pace. Additional benefits apart from the course completion 
 certificate includes the experience that you get on using platforms like GitHub and Google Colab. Our team also supports you with doubt clearance and helps you 
 understand the concepts in a better manner. The contents will be updated on weekly basis within the course and learners can easily access it through our website.
+<br/>
 **Wishing you all very the best!**_
 <br/>
 ## Introduction
