@@ -26,7 +26,7 @@ Python is one of the most popular programming language, it is an interpreter lan
 
 **Week 4: Friday(11/9/2020**<br/>
  - Module 6: Functional Programming
- - Module 7, 8, and 9 are not compulsory
+ - Module 7: 8, and 9 are not compulsory
  - Module 7: Object-Oriented Programming
  - Module 8: Regular Expressions
  - Module 9: Pythonicness & Packaging
