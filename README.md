@@ -10,10 +10,45 @@ understand the concepts in a better manner. The contents will be updated on week
 <br/>
 ## Introduction
 Python is one of the most popular programming language, it is an interpreter language( don't be afraid interpreted is something that converts the code that we write in python to machine understandable form, which is obviously the binary 0 or 1). Learning python is interesting as it takes you to very good and steep learning curve which helps you understand the magic of this language.
-### course structure
-1. Topic 1  - *week1*
-2. Topic 2  - *week1*
-3. Topic 3  - *week1*
+## course structure
+**Week 1:     Wednesday(19/8/2020)**<br/>
+ -	Module 1: Basic Concepts
+
+**Week 1: Friday(21/8/2020)**<br/>
+ - Module 2: Control Structures
+
+**Week 2: Friday(29/8/2020)**<br/>
+ - Module 3: Functions & Modules
+ - Module 4: Exceptions & Files
+
+**Week 3: Friday(4/9/2020**<br/>
+ - Module 5: More Types
+
+**Week 4: Friday(11/9/2020**<br/>
+ - Module 6: Functional Programming
+ - Module 7, 8, and 9 are not compulsory
+ - Module 7: Object-Oriented Programming
+ - Module 8: Regular Expressions
+ - Module 9: Pythonicness & Packaging
+ 
+**Week 5:	Friday(18/9/2020)**<br/>
+ - Module 1: The Basics
+ - Module 2: Classification
+
+**Week 6:	Friday(25/9/2020)**<br/>
+ - Module 3: Model Evaluation
+
+**Week 7:	Friday(2/10/2020)**<br/>
+ - Module 4: Decision Tree Model
+ - Module 5: Random Forest Model
+
+**Week 8:	Friday(9/10/2020**<br/>
+ - Module 6: Neural Networks
+
+**Week 9:	Friday(Friday(16/10/2020)**<br/>
+ - **Exam(Both python and ML)** 
+ - **Certification** 
+
 # Weekly Task Updates
 ---
 Here you can find you weekly task and it is possible for you to do those task and submit it using the git hub pull request to this repository<br>
