@@ -13,6 +13,9 @@ you can also access our **[whatsapp](https://chat.whatsapp.com/K3ZAmCs8wLo0derAM
 ## Introduction
 Python is one of the most popular programming language, it is an interpreter language( don't be afraid interpreted is something that converts the code that we write in python to machine understandable form, which is obviously the binary 0 or 1). Learning python is interesting as it takes you to very good and steep learning curve which helps you understand the magic of this language.
 ## [course structure](https://drive.google.com/file/d/1WL-vr6HdvRUSeDy6hypr5q2uf8yXIHeL/view?usp=sharing)
+### Python:
+<br/>
+
 **Week 1:     Wednesday(19/8/2020)**<br/>
  -	Module 1: Basic Concepts
 
@@ -23,16 +26,19 @@ Python is one of the most popular programming language, it is an interpreter lan
  - Module 3: Functions & Modules
  - Module 4: Exceptions & Files
 
-**Week 3: Friday(4/9/2020**<br/>
+**Week 3: Friday(4/9/2020)**<br/>
  - Module 5: More Types
 
-**Week 4: Friday(11/9/2020**<br/>
+**Week 4: Friday(11/9/2020)**<br/>
  - Module 6: Functional Programming
  - Module 7: 8, and 9 are not compulsory
  - Module 7: Object-Oriented Programming
  - Module 8: Regular Expressions
  - Module 9: Pythonicness & Packaging
  
+ ### Machine Learning:
+<br/>
+
 **Week 5:	Friday(18/9/2020)**<br/>
  - Module 1: The Basics
  - Module 2: Classification
@@ -44,7 +50,7 @@ Python is one of the most popular programming language, it is an interpreter lan
  - Module 4: Decision Tree Model
  - Module 5: Random Forest Model
 
-**Week 8:	Friday(9/10/2020**<br/>
+**Week 8:	Friday(9/10/2020)**<br/>
  - Module 6: Neural Networks
 
 **Week 9:	Friday(Friday(16/10/2020)**<br/>
