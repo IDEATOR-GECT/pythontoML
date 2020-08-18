@@ -1,4 +1,4 @@
-## Python to Machine-Learning
+# Python to Machine-Learning
 _Python to ML is our first course that we provide to you as an initiative from Ideator GEC Thrissur which aims at providing high quality study materials and 
 resources through our website. This primary course with a duration of 9 week mainly focuses on the Python programming language and basics of Machine learning
 ( Neural networks also). The course is very much beginner friendly and could be learnt at your own pace. Additional benefits apart from the course completion 
