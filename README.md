@@ -6,7 +6,7 @@ resources through our website. This primary course with a duration of 9 week mai
 certificate includes the experience that you get on using platforms like GitHub and Google Colab. Our team also supports you with doubt clearance and helps you 
 understand the concepts in a better manner. The contents will be updated on weekly basis within the course and learners can easily access it through the events section of our **[website](https://ideator.pythonanywhere.com)**.
 <br/>
-you can also access our **[whatsapp](https://chat.whatsapp.com/K3ZAmCs8wLo0derAM90icv)** or **github issues**(prefered) for anytime discussions or doubt clearance
+You can also access our **[whatsapp](https://chat.whatsapp.com/K3ZAmCs8wLo0derAM90icv)** or **github issues**(prefered) for anytime discussions or doubt clearance
 <br/>
 **Wishing you all very the best!**_
 <br/>
