@@ -22,4 +22,4 @@ Basically GitHub is a web based version control system that allows you to keep t
 # Updates
 
 * **Task-1**
-  Write a python scrip to ....
+   * print a tree of '\*' as shown bellow?
