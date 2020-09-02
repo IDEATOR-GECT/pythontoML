@@ -27,4 +27,4 @@ Basically GitHub is a web based version control system that allows you to keep t
    <br/>
    
    * **print the following pattern!**<br/><br/>
-   ![numpat](https://github.com/IDEATOR-GECT/pythontoML/blob/master/img/numpat.png
+   ![numpat](https://github.com/IDEATOR-GECT/pythontoML/blob/master/img/numpat.png)
