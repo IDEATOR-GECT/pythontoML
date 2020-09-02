@@ -24,3 +24,7 @@ Basically GitHub is a web based version control system that allows you to keep t
 * **Task-1**
    * **print a tree of '\*' as shown bellow?**<br/><br/>
    ![tree](https://github.com/IDEATOR-GECT/pythontoML/blob/master/img/tree.png)
+   <br/>
+   
+   * **print the following pattern!**<br/><br/>
+   ![numpat](https://github.com/IDEATOR-GECT/pythontoML/blob/master/img/numpat.png
