@@ -59,7 +59,7 @@ Python is one of the most popular programming language, it is an interpreter lan
 
 # Weekly Task Updates
 ---
-**Your weekly task can be found in the weekly-task folder**
+**Your weekly task can be found in the weekly-task folder. Participants must complete these weekly task to obtain their course completion certificate!!**
 
 
 
